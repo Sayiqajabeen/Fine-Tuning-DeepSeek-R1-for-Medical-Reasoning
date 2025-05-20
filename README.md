@@ -5,7 +5,7 @@ Fine-tuned version of DeepSeek-R1-Distill-Llama-8B optimized for medical questio
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/DeepSeek-R1-Medical-COT/blob/main/DeepSeek_R1_Medical_CoT_Finetuning.ipynb)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-kingabzpro/DeepSeek--R1--Medical--COT-yellow)](https://huggingface.co/kingabzpro/DeepSeek-R1-Medical-COT)
 [![wandb](https://img.shields.io/badge/Weights%20&%20Biases-Experiment-blue)](https://wandb.ai/username/Fine-tune-DeepSeek-R1)
-
+[![wandb](https://img.shields.io/badge/Weights%20&%20Biases-Experiment-blue)](https://wandb.ai/sayiqajabeen14-fast/Fine-tune-DeepSeek-R1/reports/Fine-tune-DeepSeek-R1--VmlldzoxMjg1MzgyNQ)
 ## Model Description
 
 This repository contains a fine-tuned version of the [DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B) model, specifically optimized for medical question answering with step-by-step reasoning. The model has been trained to provide detailed Chain of Thought (CoT) responses to complex medical questions.
